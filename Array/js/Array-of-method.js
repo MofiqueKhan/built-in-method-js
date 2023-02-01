@@ -1,0 +1,1 @@
+console.log(Array.of(7,1,2,3,4,5));
